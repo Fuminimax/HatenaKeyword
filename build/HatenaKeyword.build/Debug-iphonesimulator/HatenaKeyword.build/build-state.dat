@@ -1,0 +1,648 @@
+THatenaKeyword
+v7
+r0
+t302541212.382798
+cCheck dependencies
+cProcessInfoPlistFile /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/Info.plist HatenaKeyword-Info.plist
+cCpResource build/Debug-iphonesimulator/HatenaKeyword.app/Default.png "../../../Pictures/Hatena Keyword/Default.png"
+cCpResource build/Debug-iphonesimulator/HatenaKeyword.app/Icon.png "../../../Pictures/Hatena Keyword/Icon.png"
+cProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch.gch HatenaKeyword_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/main.o /Users/tryout/Documents/XCode/HatenaKeyword/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/HatenaKeywordAppDelegate.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/TopViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/myParser.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/KeywordViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/KeywordViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/WebViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/SearchListViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/SearchListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/Reachability.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/CheckInternetConnection.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/CheckInternetConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword normal i386
+cGenerateDSYMFile /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app.dSYM /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword
+cTouch /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C44559E0000000000000132
+t1279546782
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004BFDFD720000000000000AB3
+t1274936690
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004BFDFDA40000000000001AE5
+t1274936740
+s6885
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004BFDFDAA000000000005E690
+t1274936746
+s386704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/arpa/inet.h
+c000000004A4180D20000000000001533
+t1245806802
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/ifaddrs.h
+c000000004A4180E20000000000000782
+t1245806818
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/netinet/in.h
+c000000004A73D64C000000000000539D
+t1249105484
+s21405
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/netinet6/in6.h
+c000000004A73D64B0000000000004F5B
+t1249105483
+s20315
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/socket.h
+c000000004A73D65400000000000059BC
+t1249105492
+s22972
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/../../../Pictures/Hatena Keyword/Default.png
+c000000004C445E55000000000000BCA9
+t1279549013
+s48297
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/../../../Pictures/Hatena Keyword/Icon.png
+c000000004C445F210000000000009A03
+t1279549217
+s39427
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/CheckInternetConnection.h
+c000000004C56D6B70000000000000164
+t1280759479
+s356
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/CheckInternetConnection.m
+c000000004C56DDF30000000000000321
+t1280761331
+s801
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i"CheckInternetConnection.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.h
+c000000004C56CA2700000000000001C7
+t1280756263
+s455
+i"TopViewController.h"
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m
+c000000004C56CB0A0000000000000B05
+t1280756490
+s2821
+i"HatenaKeywordAppDelegate.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/KeywordViewController.h
+c000000004C31DF0E00000000000001FB
+t1278336782
+s507
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/KeywordViewController.m
+c000000004C58313C0000000000002967
+t1280848188
+s10599
+i"KeywordViewController.h"
+i"WebViewController.h"
+i"myParser.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/Reachability.h
+c000000004C5829710000000000000F68
+t1280846193
+s3944
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/Reachability.m
+c000000004C34EF79000000000000239B
+t1278537593
+s9115
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/SearchListViewController.h
+c000000004C4459CF000000000000023B
+t1279547855
+s571
+i<UIKit/UIKit.h>
+i"myParser.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/SearchListViewController.m
+c000000004C45C2EF0000000000001C9E
+t1279640303
+s7326
+i"SearchListViewController.h"
+i"KeywordViewController.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.h
+c000000004C56D5290000000000000297
+t1280759081
+s663
+i<UIKit/UIKit.h>
+i"myParser.h"
+i"CheckInternetConnection.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m
+c000000004C5831F90000000000001E6E
+t1280848377
+s7790
+i"TopViewController.h"
+i"KeywordViewController.h"
+i"SearchListViewController.h"
+i"CheckInternetConnection.h"
+i"Reachability.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/WebViewController.h
+c000000004C42BE83000000000000017F
+t1279442563
+s383
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/WebViewController.m
+c000000004C45C3F500000000000008B8
+t1279640565
+s2232
+i"WebViewController.h"
+i"KeywordViewController.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.h
+c000000004C31DC8A000000000000033E
+t1278336138
+s830
+i<Foundation/Foundation.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m
+c000000004C0515940000000000000AFB
+t1275401620
+s2811
+i"myParser.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch
+c000000004C025F2F00000000000000C3
+t1275223855
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/MainWindow.xib
+c000000004C025F2F0000000000002126
+t1275223855
+s8486
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app
+t1280848412
+s238
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app.dSYM
+t1280848412
+s102
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/Default.png
+t1279637886
+s48297
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword
+t1280848412
+s80276
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/Icon.png
+t1279637886
+s39427
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/Info.plist
+t1278333589
+s582
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/MainWindow.nib
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/PkgInfo
+t1278333589
+s8
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/CheckInternetConnection.o
+t1280761333
+s8260
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/HatenaKeyword.LinkFileList
+c000000004C56D5B60000000000000555
+t1280759222
+s1365
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/HatenaKeywordAppDelegate.o
+t1280759482
+s51116
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/KeywordViewController.o
+t1280848192
+s70720
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/Reachability.o
+t1280846296
+s23060
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/SearchListViewController.o
+t1280551153
+s63436
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/TopViewController.o
+t1280848412
+s70400
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/WebViewController.o
+t1280551152
+s44796
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/main.o
+t1278333591
+s6500
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/myParser.o
+t1278336143
+s28228
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/main.m
+c000000004C025F7B000000000000018A
+t1275223931
+s394
+i<UIKit/UIKit.h>
+
+N/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-bcxdgdmrjvxwcqduzdurithurxxm/HatenaKeyword_Prefix.pch.gch
+t1275230940
+s13805456
+
+N/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-bghwlzorzajulvcvjlveywjqxade/HatenaKeyword_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-ewqmhkkmwvfvtfgfpbfewhmdoxyp/HatenaKeyword_Prefix.pch.gch
+t1275223933
+s15199248
+
+N/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-fnriutecibmjdqdprzxxtrhgezhl/HatenaKeyword_Prefix.pch.gch
+t1275231064
+s13026768
+
+N/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch.gch
+t1278333590
+s15232016
+
+NHatenaKeyword-Info.plist
+c000000004C025F610000000000000356
+t1275223905
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302541212#302541212#0(0"0(0#1#0"8618355712#0"0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/CheckInternetConnection.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/CheckInternetConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302454133.781870
+e302454133.919799
+r1
+xCompileC
+xbuild/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/CheckInternetConnection.o
+x/Users/tryout/Documents/XCode/HatenaKeyword/Classes/CheckInternetConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/tryout/Documents/XCode/HatenaKeyword/Classes/CheckInternetConnection.m302454133#302454133#0(0"0(0#0#77"/Users/tryout/Documents/XCode/HatenaKeyword/Classes/CheckInternetConnection.m3342922646487131648#2122"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch -c /Users/tryout/Documents/XCode/HatenaKeyword/Classes/CheckInternetConnection.m -o /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/CheckInternetConnection.o0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/HatenaKeywordAppDelegate.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302452282.264897
+e302452282.375247
+r1
+xCompileC
+xbuild/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/HatenaKeywordAppDelegate.o
+x/Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m302452282#302452282#0(0"0(0#0#78"/Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m8604276608#2124"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch -c /Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m -o /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/HatenaKeywordAppDelegate.o0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/KeywordViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/KeywordViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302540992.135081
+e302540992.357573
+r1
+xCompileC
+xbuild/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/KeywordViewController.o
+x/Users/tryout/Documents/XCode/HatenaKeyword/Classes/KeywordViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/tryout/Documents/XCode/HatenaKeyword/Classes/KeywordViewController.m302540992#302540992#0(0"0(0#0#75"/Users/tryout/Documents/XCode/HatenaKeyword/Classes/KeywordViewController.m8617561184#2118"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch -c /Users/tryout/Documents/XCode/HatenaKeyword/Classes/KeywordViewController.m -o /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/KeywordViewController.o0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/Reachability.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302539096.667787
+e302539096.804296
+r1
+xCompileC
+xbuild/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/Reachability.o
+x/Users/tryout/Documents/XCode/HatenaKeyword/Classes/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/tryout/Documents/XCode/HatenaKeyword/Classes/Reachability.m302539096#302539096#0(0"0(0#0#66"/Users/tryout/Documents/XCode/HatenaKeyword/Classes/Reachability.m8609019008#2100"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch -c /Users/tryout/Documents/XCode/HatenaKeyword/Classes/Reachability.m -o /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/SearchListViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/SearchListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302243952.816929
+e302243953.016766
+r1
+xCompileC
+xbuild/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/SearchListViewController.o
+x/Users/tryout/Documents/XCode/HatenaKeyword/Classes/SearchListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/tryout/Documents/XCode/HatenaKeyword/Classes/SearchListViewController.m302243952#302243953#0(0"0(0#0#78"/Users/tryout/Documents/XCode/HatenaKeyword/Classes/SearchListViewController.m8605716320#2124"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch -c /Users/tryout/Documents/XCode/HatenaKeyword/Classes/SearchListViewController.m -o /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/SearchListViewController.o0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/TopViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302541212.123256
+e302541212.322305
+r1
+xCompileC
+xbuild/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/TopViewController.o
+x/Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m302541212#302541212#0(0"0(0#0#71"/Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m8615086208#2110"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch -c /Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m -o /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/TopViewController.o0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/WebViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302243952.564150
+e302243952.997544
+r1
+xCompileC
+xbuild/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/WebViewController.o
+x/Users/tryout/Documents/XCode/HatenaKeyword/Classes/WebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/tryout/Documents/XCode/HatenaKeyword/Classes/WebViewController.m302243952#302243952#0(0"0(0#0#71"/Users/tryout/Documents/XCode/HatenaKeyword/Classes/WebViewController.m8604229280#2110"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch -c /Users/tryout/Documents/XCode/HatenaKeyword/Classes/WebViewController.m -o /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/WebViewController.o0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/main.o /Users/tryout/Documents/XCode/HatenaKeyword/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300026390.885044
+e300026391.151552
+r1
+xCompileC
+xbuild/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/main.o
+x/Users/tryout/Documents/XCode/HatenaKeyword/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/tryout/Documents/XCode/HatenaKeyword/main.m300026390#300026391#0(0"0(0#0#50"/Users/tryout/Documents/XCode/HatenaKeyword/main.m8608673248#2076"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch -c /Users/tryout/Documents/XCode/HatenaKeyword/main.m -o /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/main.o0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/myParser.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300028943.413715
+e300028943.531639
+r1
+xCompileC
+xbuild/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/myParser.o
+x/Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m300028943#300028943#0(0"0(0#0#62"/Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m8620398208#2092"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch -c /Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m -o /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/myParser.o0#
+
+CCompileXIB /Users/tryout/Documents/XCode/HatenaKeyword/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/HatenaKeyword.app/Default.png "../../../Pictures/Hatena Keyword/Default.png"
+s301330686.564535
+e301330686.607577
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HatenaKeyword.app/Default.png
+x../../../Pictures/Hatena Keyword/Default.png
+lSLF07#2@49"Copy ../../../Pictures/Hatena Keyword/Default.png301330686#301330686#0(0"0(0#0#88"/Users/tryout/Documents/XCode/HatenaKeyword/../../../Pictures/Hatena Keyword/Default.png8618674496#511"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tryout/Documents/XCode/HatenaKeyword/../../../Pictures/Hatena Keyword/Default.png" /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app0#
+
+CCpResource build/Debug-iphonesimulator/HatenaKeyword.app/Icon.png "../../../Pictures/Hatena Keyword/Icon.png"
+s301330686.565744
+e301330686.607722
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HatenaKeyword.app/Icon.png
+x../../../Pictures/Hatena Keyword/Icon.png
+lSLF07#2@46"Copy ../../../Pictures/Hatena Keyword/Icon.png301330686#301330686#0(0"0(0#0#85"/Users/tryout/Documents/XCode/HatenaKeyword/../../../Pictures/Hatena Keyword/Icon.png8618557504#508"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tryout/Documents/XCode/HatenaKeyword/../../../Pictures/Hatena Keyword/Icon.png" /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app0#
+
+CGenerateDSYMFile /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app.dSYM /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword
+s302541212.354449
+e302541212.379720
+r1
+xGenerateDSYMFile
+x/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app.dSYM
+x/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/HatenaKeyword.app.dSYM build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword302541212#302541212#0(0"0(0#0#103"/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword8617255392#416"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword -o /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app.dSYM0#
+
+CLd /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword normal i386
+s302541212.322391
+e302541212.354356
+r1
+xLd
+x/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword
+xnormal
+xi386
+lSLF07#2@108"Link /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword302541212#302541212#0(0"0(0#0#0"8619243488#986"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -filelist /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/Objects-normal/i386/HatenaKeyword.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -o /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/HatenaKeyword0#
+
+CProcessInfoPlistFile /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/Info.plist HatenaKeyword-Info.plist
+s300026389.899761
+e300026389.937254
+r1
+xProcessInfoPlistFile
+x/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/Info.plist
+xHatenaKeyword-Info.plist
+lSLF07#2@32"Process HatenaKeyword-Info.plist300026389#300026389#0(0"0(0#0#68"/Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword-Info.plist27303270315982960#512"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HatenaKeyword-Info.plist -genpkginfo /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app/Info.plist0#
+
+CProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-bcxdgdmrjvxwcqduzdurithurxxm/HatenaKeyword_Prefix.pch.gch HatenaKeyword_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296923739.995611
+e296923740.944558
+r1
+xProcessPCH
+x/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-bcxdgdmrjvxwcqduzdurithurxxm/HatenaKeyword_Prefix.pch.gch
+xHatenaKeyword_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile HatenaKeyword_Prefix.pch296923740#296923740#0(0"0(0#0#68"/Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch7009904992889168896#1913"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -c /Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch -o /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-bcxdgdmrjvxwcqduzdurithurxxm/HatenaKeyword_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-bghwlzorzajulvcvjlveywjqxade/HatenaKeyword_Prefix.pch.gch HatenaKeyword_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296916772.547229
+e296916773.222326
+r1
+xProcessPCH
+x/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-bghwlzorzajulvcvjlveywjqxade/HatenaKeyword_Prefix.pch.gch
+xHatenaKeyword_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile HatenaKeyword_Prefix.pch296916772#296916773#0(0"0(0#0#68"/Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch8615141792#1957"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -c /Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch -o /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-bghwlzorzajulvcvjlveywjqxade/HatenaKeyword_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-ewqmhkkmwvfvtfgfpbfewhmdoxyp/HatenaKeyword_Prefix.pch.gch HatenaKeyword_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296916732.296351
+e296916733.116894
+r1
+xProcessPCH
+x/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-ewqmhkkmwvfvtfgfpbfewhmdoxyp/HatenaKeyword_Prefix.pch.gch
+xHatenaKeyword_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile HatenaKeyword_Prefix.pch296916732#296916733#0(0"0(0#0#68"/Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch8615239904#1957"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -c /Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch -o /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-ewqmhkkmwvfvtfgfpbfewhmdoxyp/HatenaKeyword_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-fnriutecibmjdqdprzxxtrhgezhl/HatenaKeyword_Prefix.pch.gch HatenaKeyword_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296923864.063120
+e296923865.074969
+r1
+xProcessPCH
+x/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-fnriutecibmjdqdprzxxtrhgezhl/HatenaKeyword_Prefix.pch.gch
+xHatenaKeyword_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile HatenaKeyword_Prefix.pch296923864#296923865#0(0"0(0#0#68"/Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch4300911832#1915"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -c /Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch -o /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-fnriutecibmjdqdprzxxtrhgezhl/HatenaKeyword_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch.gch HatenaKeyword_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300026389.937400
+e300026390.884946
+r1
+xProcessPCH
+x/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch.gch
+xHatenaKeyword_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile HatenaKeyword_Prefix.pch300026389#300026390#0(0"0(0#0#68"/Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch8606146432#1957"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-generated-files.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-own-target-headers.hmap -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/HatenaKeyword-project-headers.hmap -F/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator -I/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/include -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphonesimulator/HatenaKeyword.build/DerivedSources -c /Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch -o /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gdwqcvxmkcsyzlcgidpbqmneipgx/HatenaKeyword_Prefix.pch.gch0#
+
+CTouch /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app
+s302541212.379797
+e302541212.382752
+r1
+xTouch
+x/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app
+lSLF07#2@95"Touch /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app302541212#302541212#0(0"0(0#0#0"8618716128#294"    cd /Users/tryout/Documents/XCode/HatenaKeyword    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphonesimulator/HatenaKeyword.app0#
+

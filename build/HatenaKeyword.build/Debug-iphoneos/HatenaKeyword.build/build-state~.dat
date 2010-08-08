@@ -1,0 +1,233 @@
+THatenaKeyword
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C059C0E0000000000000110
+t1275436046
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.h
+c000000004C0264BB00000000000001C6
+t1275225275
+s454
+i"TopViewController.h"
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m
+c000000004C0261660000000000000B0C
+t1275224422
+s2828
+i"HatenaKeywordAppDelegate.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.h
+c000000004C0515E90000000000000252
+t1275401705
+s594
+i<UIKit/UIKit.h>
+i"myParser.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m
+c000000004C0517050000000000001272
+t1275401989
+s4722
+i"TopViewController.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.h
+c000000004C0515420000000000000329
+t1275401538
+s809
+i<Foundation/Foundation.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m
+c000000004C0515940000000000000AFB
+t1275401620
+s2811
+i"myParser.h"
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/HatenaKeyword_Prefix.pch
+c000000004C025F2F00000000000000C3
+t1275223855
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app.dSYM
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app/HatenaKeyword
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app/Info.plist
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app/PkgInfo
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app/ResourceRules.plist
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/HatenaKeyword
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/HatenaKeyword.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/HatenaKeywordAppDelegate.o
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/TopViewController.o
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/myParser.o
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/HatenaKeyword
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/HatenaKeyword.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/HatenaKeywordAppDelegate.o
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/TopViewController.o
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/myParser.o
+t2
+s0
+
+N/Users/tryout/Documents/XCode/HatenaKeyword/main.m
+c000000004C025F7B000000000000018A
+t1275223931
+s394
+i<UIKit/UIKit.h>
+
+N/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-aglwdcrnkgssrkdcsrsczvvjtvgv/HatenaKeyword_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gtrryltuuiirtscqahmyaicdtjgk/HatenaKeyword_Prefix.pch.gch
+t2
+s0
+
+NHatenaKeyword-Info.plist
+c000000004C025F610000000000000356
+t1275223905
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300026328#300026328#0(271"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.HatenaKeyword' could not be found[BWARN]warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.2(4@134"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.HatenaKeyword' could not be found300026328#18446744073709551615#0#0(1@0"0(22@121"warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.300026328#18446744073709551615#0#0(1@0"0(0#1#0"30962681237471328#0"0#
+
+CCompileC build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/HatenaKeywordAppDelegate.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/TopViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/main.o /Users/tryout/Documents/XCode/HatenaKeyword/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/myParser.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/HatenaKeywordAppDelegate.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/HatenaKeywordAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/TopViewController.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/TopViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/main.o /Users/tryout/Documents/XCode/HatenaKeyword/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/myParser.o /Users/tryout/Documents/XCode/HatenaKeyword/Classes/myParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCpResource build/Debug-iphoneos/HatenaKeyword.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app/HatenaKeyword normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app.dSYM /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app/HatenaKeyword
+r0
+
+CLd /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv6/HatenaKeyword normal armv6
+r0
+
+CLd /Users/tryout/Documents/XCode/HatenaKeyword/build/HatenaKeyword.build/Debug-iphoneos/HatenaKeyword.build/Objects-normal/armv7/HatenaKeyword normal armv7
+r0
+
+CProcessInfoPlistFile /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app/Info.plist HatenaKeyword-Info.plist
+r0
+
+CProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-aglwdcrnkgssrkdcsrsczvvjtvgv/HatenaKeyword_Prefix.pch.gch HatenaKeyword_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HatenaKeyword_Prefix-gtrryltuuiirtscqahmyaicdtjgk/HatenaKeyword_Prefix.pch.gch HatenaKeyword_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/tryout/Documents/XCode/HatenaKeyword/build/Debug-iphoneos/HatenaKeyword.app
+r0
+
